@@ -1,0 +1,6 @@
+B:\User Profile\Projects\Computer gauges\Windows\Gauges\bin\Release\Gauges.exe.config
+B:\User Profile\Projects\Computer gauges\Windows\Gauges\bin\Release\Gauges.exe
+B:\User Profile\Projects\Computer gauges\Windows\Gauges\bin\Release\Gauges.pdb
+B:\User Profile\Projects\Computer gauges\Windows\Gauges\obj\Release\Gauges.csproj.CoreCompileInputs.cache
+B:\User Profile\Projects\Computer gauges\Windows\Gauges\obj\Release\Gauges.exe
+B:\User Profile\Projects\Computer gauges\Windows\Gauges\obj\Release\Gauges.pdb

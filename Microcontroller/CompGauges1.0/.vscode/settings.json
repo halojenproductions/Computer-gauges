@@ -1,0 +1,12 @@
+{
+	"arduino.enableUSBDetection": false,
+	"C_Cpp.errorSquiggles": "Disabled",
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"[yaml]": {
+		"editor.insertSpaces": false,
+		"editor.tabSize": 4,
+		"editor.autoIndent": false
+	  }
+
+}

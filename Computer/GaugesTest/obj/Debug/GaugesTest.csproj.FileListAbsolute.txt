@@ -1,0 +1,15 @@
+B:\User Profile\Projects\Computer gauges\Windows\GaugesTest\bin\Debug\GaugesTest.exe.config
+B:\User Profile\Projects\Computer gauges\Windows\GaugesTest\bin\Debug\GaugesTest.exe
+B:\User Profile\Projects\Computer gauges\Windows\GaugesTest\bin\Debug\GaugesTest.pdb
+B:\User Profile\Projects\Computer gauges\Windows\GaugesTest\obj\Debug\GaugesTest.csprojAssemblyReference.cache
+B:\User Profile\Projects\Computer gauges\Windows\GaugesTest\obj\Debug\MainWindow.g.cs
+B:\User Profile\Projects\Computer gauges\Windows\GaugesTest\obj\Debug\App.g.cs
+B:\User Profile\Projects\Computer gauges\Windows\GaugesTest\obj\Debug\GaugesTest_MarkupCompile.cache
+B:\User Profile\Projects\Computer gauges\Windows\GaugesTest\obj\Debug\GaugesTest_MarkupCompile.lref
+B:\User Profile\Projects\Computer gauges\Windows\GaugesTest\obj\Debug\MainWindow.baml
+B:\User Profile\Projects\Computer gauges\Windows\GaugesTest\obj\Debug\GaugesTest.g.resources
+B:\User Profile\Projects\Computer gauges\Windows\GaugesTest\obj\Debug\GaugesTest.Properties.Resources.resources
+B:\User Profile\Projects\Computer gauges\Windows\GaugesTest\obj\Debug\GaugesTest.csproj.GenerateResource.cache
+B:\User Profile\Projects\Computer gauges\Windows\GaugesTest\obj\Debug\GaugesTest.csproj.CoreCompileInputs.cache
+B:\User Profile\Projects\Computer gauges\Windows\GaugesTest\obj\Debug\GaugesTest.exe
+B:\User Profile\Projects\Computer gauges\Windows\GaugesTest\obj\Debug\GaugesTest.pdb
