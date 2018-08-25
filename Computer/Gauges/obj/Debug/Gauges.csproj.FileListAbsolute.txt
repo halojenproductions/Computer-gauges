@@ -1,6 +1,0 @@
-B:\User Profile\Projects\Computer gauges\Windows\Gauges\bin\Debug\Gauges.exe.config
-B:\User Profile\Projects\Computer gauges\Windows\Gauges\bin\Debug\Gauges.exe
-B:\User Profile\Projects\Computer gauges\Windows\Gauges\bin\Debug\Gauges.pdb
-B:\User Profile\Projects\Computer gauges\Windows\Gauges\obj\Debug\Gauges.csproj.CoreCompileInputs.cache
-B:\User Profile\Projects\Computer gauges\Windows\Gauges\obj\Debug\Gauges.exe
-B:\User Profile\Projects\Computer gauges\Windows\Gauges\obj\Debug\Gauges.pdb
